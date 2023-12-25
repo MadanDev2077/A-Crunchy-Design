@@ -1,0 +1,504 @@
+
+    .header .svg img{
+        width: 1200px;
+    }
+@media(max-width:1800px){
+    .header .svg img{
+        width: 1050px;
+    }
+    
+}
+@media(max-width:1600px){
+    .header .svg img{
+        width: 950px;
+    }
+}
+@media(max-width:1400px){
+    .footer .desc h2 {
+        font-size: 30px;
+    }
+    .header .svg img {
+        width: 760px;
+        height: 120px;
+    }
+    .copy_write p {
+        font-size: 17px;
+    }
+    .container {
+        padding: 0 40px;
+    }
+    .footer .col{
+        width: 40%;
+    }
+    .footer .col:last-child{
+        width: 20%;
+    }
+    .social_me li img {
+        width: 30px;
+        height: 30px;
+    }
+    .talk_us .container {
+        max-width: 90%;
+    }
+    ._tit_ {
+        font-size: 26px;
+    }
+    .tit_40 {
+        font-size: 36px;
+    }
+    .footer .desc p {
+        font-size: 18px;
+    }
+    .why_choose .container {
+        max-width: 100%;
+    }
+    .img_tit .desc h2 {
+        font-size: 34px;    
+    }
+    .img_tit .desc p {
+        font-size: 21px;
+    }
+    .img_tit .desc {
+        padding-left: 20px;
+    }
+    .img_tit img {
+        width: 60px;
+        height: 60px;
+    }
+    .header .svg img {
+    width: 703px;
+    height: 120px;
+}
+.btn_big {
+    padding: 30px 45px;
+    font-size: 26px;
+}
+}
+@media(max-width:1024px){
+    .talk_us .container {
+        max-width: 90%;
+    }
+    .btn_big {
+        padding: 25px 38px;
+        font-size: 22px;
+    }
+    .col {
+        padding: 0 20px;
+    }
+    .row{
+        margin: 0 -15px;
+    }
+    .container{
+        padding: 0 30px;
+    }
+    .pricing {
+        padding: 30px 0 90px 0;
+    }
+    .footer .desc h2 {
+        font-size: 26px;
+    }
+    .footer .desc p {
+        font-size: 16px;
+    }
+    .footer .img_tit .desc {
+        padding-left: 20px;
+    }
+    .footer .img_tit img {
+        width: 65px;
+        height: 65px;
+    }
+    .price_g .btn {
+        margin-top: 17px;
+    }
+    .take_look {
+        font-size: 15.611px;
+    }
+    .past_project .col{
+        width: 100%;
+        padding: 0;
+    }
+    .past_project .row{
+        margin: 0;
+    }
+    .p_pr_girds img{
+        width: 100%;
+    }
+    .take_look img{
+        width: auto !important;
+    }
+    .p_pr_girds {
+        margin-bottom: 50px;
+        padding: 11px;
+    }
+    .tit_26 {
+        font-size: 24px;
+    }
+    .take_look {
+        font-size: 14.611px;
+    }
+    .Services .col{
+        width: 50%;
+    }
+    .services_desc {
+        max-width: 70%;
+    }
+    .about_desc {
+        max-width: 100%;
+    }
+    .banner_desc{
+        max-width: 100%;
+    }
+    .ban_list{
+        display: flex;
+        overflow-x: scroll;
+    }
+    .banner svg{
+        display: none;
+    }
+    .banner {
+        position: relative;
+        width: 100%;
+        height: 800px;
+    }
+    .banner::before{
+        position: absolute;
+        content: '';
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(../images/banner.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: bottom;
+    }
+    .img_tit .desc p {
+        font-size: 17px;
+        margin-top: 3px;
+    }
+    .banner_desc p {
+        font-size: 20px;
+        max-width: 80%;
+    }
+}
+@media(max-width:991px){
+    .footer .col{
+        width: 100% !important;
+    }
+    .btn_big {
+        padding: 16px 23px;
+        font-size: 18px;
+    }
+    .banner_desc p {
+        font-size: 17px;
+        max-width: 80%;
+    }
+    .img_tit .desc h2 {
+        font-size: 24px;
+    }
+    .menu{
+        display: none;
+    }
+    .header .svg img{
+        display: none;
+    }
+    .img_tit .desc h2{
+        color: #fff;
+    }
+    .img_tit .desc h2 {
+        font-size: 28px;
+    }           
+    .header .img_tit .desc{
+        text-align: center;
+    }
+    .header .svg svg{
+        display: block;
+    }
+    .why_choose .col{
+        width: 100%;
+        padding: 0;
+    }
+    .why_choose .row{
+        margin: 0;
+    }
+    .social_me {
+        text-align: center;
+    }
+    .take_look {
+        font-size: 12.611px;
+    }    
+    .img_tit.d_flex.ali_center{
+        justify-content: center;
+    }
+    .tit_40 {
+        font-size: 32px;
+    }
+    .copy_write{
+        text-align: center;
+        margin-top: 25px;
+    }
+    .footer .desc p {
+        font-size: 14px;
+    }
+    .tit_26 {
+        font-size: 22px;
+    }
+    .talk_us .col{
+        width: 100%;
+    }
+    .talk_left{
+        margin-top: 50px;
+    }
+    .pricing .col{
+        width: 100%;
+    }
+    .price_g.price_g_big{
+        margin-bottom: 35px;
+    }
+    .social_me{
+        margin-top: 25px;
+    }
+    .talk_us .container {
+        max-width: 100%;
+    }
+    button.form_sub.btn{
+        padding: 20px 0;
+        font-size: 18px;
+    }
+    .form_label {
+        font-size: 20px;
+    }
+    .form_control {
+        font-size: 16px;
+    }
+    .pricing {
+        padding: 30px 0 75px 0;
+    }
+    .footer .img_tit img {
+        width: 50px;
+        height: 50px;
+    }
+    .take_look img{
+        width: 13px;
+        height: 13px;
+        margin-left: 5px;
+    }
+    .take_look{
+        display: flex;
+        align-items: center;
+    }
+    .services_desc {
+        max-width: 90%;
+    }
+    .about_us, .why_choose {
+        padding: 65px  0;
+    }
+    .about_desc .btn {
+        margin-top: 30px;
+    }
+    .common li {
+        font-size: 18px;
+    }
+    .why_choose_img {
+        margin-top: 62px;
+    }
+}
+@media(max-width:767px){
+    .social_me {
+        position: absolute;
+        top: -100px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .why_choose {
+        padding: 55px 0;
+    }
+    .botton_sec{
+        padding: 60px 0;
+    }
+    .btn_big {
+        font-size: 16px;
+    }
+    .about_desc .btn {
+        margin-top: 20px;
+    }
+    .why_choose .tit_40{
+    max-width:88%;
+    margin-bottom: 36px;
+    }
+    .common{
+        max-width: 100%;
+    }
+    .common li {
+        font-size: 16px;
+        padding-left: 31px;
+    }
+    .common li::before {
+        width: 24px;
+        height: 24px;
+    }
+    .Services {
+        padding: 32px 0 50px 0;
+    }
+    .services_desc .tit_40{
+        margin-bottom: 35px;
+    }
+    .services_desc {
+        margin: 0 auto 53px auto;
+    }
+    .about_img{
+        margin-top: 50px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .banner_desc h1 {
+        max-width: 100%;
+    }
+    .banner_desc p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+    .img_tit .desc {
+        padding-left: 10px;
+    }
+    .banner_desc {
+        padding-top: 115px;
+    }    
+    .img_tit .desc h2 {
+        font-size: 22px;
+    }
+    .img_tit img {
+        width: 40px;
+        height: 40px;
+    }
+    .Services .col{
+        width: 100%;
+        padding: 0;
+    }
+    .services_desc {
+        max-width: 100%;
+    }
+    .Services .row{
+        margin: 0;
+    }
+    .s_grid{
+        text-align: center;
+    }
+    .take_look {
+        font-size: 10.611px;
+    }
+    .footer .img_tit img {
+        width: 43px;
+        height: 43px;
+    }
+    .p_pr_girds {
+        margin-bottom: 40px;
+    }
+    .price_g .btn {
+        margin-top: 13px;
+    }
+    .talk_us .col{
+        padding: 0;
+    }
+    .past_project .tit_26 {
+        font-size: 14px;
+    }
+    .tit_26 {
+        font-size: 20px;
+    }
+    .footer .img_tit .desc {
+        padding-left: 10px;
+    }
+    .talk_us .row{
+        margin: 0;
+    }
+    .copy_write p {
+        font-size: 16px;
+    }
+    .footer .desc h2 {
+        font-size: 24px;
+    }
+    ._tit_ {
+        font-size: 24px;
+        border: none;
+        word-break: break-all;
+        line-height: 31px;
+    }
+    .email_at p{
+        font-size: 20px;
+    }
+    .talk_us {
+        padding-bottom: 160px;
+    }
+    .container {
+        padding: 0 22px;
+    }
+    .social_me li img {
+        width: 28px;
+        height: 28px;
+    }
+    .contact_form {
+        padding: 18px;
+        margin-right: 0px;
+    }
+    button.form_sub.btn{
+        padding: 18px 0;
+        font-size: 16px;
+    }
+    textarea.massage.form_control {
+        height: 100px;
+    }
+    .form_label {
+        font-size: 18.121px;
+        line-height: 27.181px; 
+    }
+    .form_control {
+        font-size: 14px;
+        padding: 9px;
+    }
+    .talk_us .tit_40 {
+        margin-bottom: 50px;
+    }
+    .talk_left img{
+        width: 100%;
+    }
+    .pricing {
+        padding: 30px 0 65px 0;
+    }
+    .price_g{
+        margin-bottom: 40px !important;
+    }
+     .tit_40 {
+        margin-bottom: 48px;
+        font-size: 28px;
+    }
+    .past_project .tit_40 {
+        margin-bottom: 50px;
+    }
+    .about_us .col{
+        width: 100%;
+        padding: 0;
+    }
+    .about_us .row{
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+    .banner_desc h1 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .col {
+        padding: 0 15px;
+    }
+    .row {
+        margin: 0 -15px;
+    }
+    .header .col:first-child {
+        width: 60%;
+    }
+    .header .col:last-child {
+        width: 40%;
+    }
+}
